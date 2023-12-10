@@ -15,12 +15,7 @@ Data Analyst from Egypt <br>📧 Reach me anytime: esraaalli141@gmail.com<br><br
 ![](https://github-contributor-stats.vercel.app/api?username=Esraaalli&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Esraaalli&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Esraaalli&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraaalli&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Esraaalli&icon=5&color=0)](https://visitcount.itsvg.in)
